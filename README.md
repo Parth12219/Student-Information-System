@@ -9,4 +9,4 @@
   <li>The employee can now create, update delete the records for the tables according to selected action.</li>
 </ol>
 <h2> Status :</h2>
-Needs UI fixing and othe UI updates.
+Needs UI fixing and other UI updates.
